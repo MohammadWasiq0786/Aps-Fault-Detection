@@ -1,4 +1,5 @@
-# Apa Fault Detection
+# [Apa Fault Detection](https://github.com/MohammadWasiq0786/Aps-Fault-Detection)
+
 ### Step 1 - Install the requirements
 
 ```bash
