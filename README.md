@@ -94,7 +94,15 @@ sudo usermod -aG docker ubuntu
 ```
 newgrp docker
 ```
-
+```
+docker --version
+```
+```
+clear
+```
+```
+docker images
+```
 
 ```
 
