@@ -83,6 +83,9 @@ AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
 curl -fsSL https://get.docker.com -o get-docker.sh
 ```
 ```
+ls
+```
+```
 sudo sh get-docker.sh
 ```
 ```
