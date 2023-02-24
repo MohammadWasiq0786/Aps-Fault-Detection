@@ -1,5 +1,4 @@
-# $$[Apa Fault Detection](https://github.com/MohammadWasiq0786/Aps-Fault-Detection)$$
-
+# [APS Fault Detection](https://github.com/MohammadWasiq0786/Aps-Fault-Detection)
 
 ### Problem Statement
 **The Air Pressure System (APS) is a critical component of a heavy-duty vehicle that uses compressed air to force a piston to provide pressure to the brake pads, slowing the vehicle down. The benefits of using an APS instead of a hydraulic system are the easy availability and long-term sustainability of natural air.**
@@ -196,3 +195,5 @@ MONGO_DB_URL="mongodb://localhost:27017"
 AWS_ACCESS_KEY_ID="aagswdiquyawvdiu"
 AWS_SECRET_ACCESS_KEY="sadoiuabnswodihabosdbn"
 ```
+
+**Sensor Fault Detection**
