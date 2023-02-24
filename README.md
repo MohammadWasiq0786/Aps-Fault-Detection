@@ -176,7 +176,7 @@ git commit -m "message"
 git push origin main
 ```
 
-Note: 
+**Note :** 
 
 * origin--> contains url to your github repo
 * main--> is your branch name 
